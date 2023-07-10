@@ -4,12 +4,16 @@ Source code reviews upon request!
 
 To ensure proper execution of the program, it is essential to upload an Excel file in the correct format. This ensures that the program can accurately read and process the information within, thereby generating the desired results. Once the processing is complete, you can export the processed information into a new Excel file.
 
-
+The first program view
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/c9cfebe1-ae9b-4995-b4df-29adbf1b5bc5)
+Process information populate datagridview 
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/a171deac-c5ed-42fb-b141-68ade25290e4)
+Import original excel file
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/020163ac-b96e-43fc-a0ff-65ebe3725474)
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/7b29cdb7-8067-4929-b23c-8af5c125241d)
+Export original excel file
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/f0d24ec0-9b12-43c3-8a29-fc0ac69e5d45)
+
 ![image](https://github.com/DanjaBali/Cash-Report-setup-file/assets/48566297/913afcf0-c89c-46b8-9034-59041be5da23)
 
 Original file
